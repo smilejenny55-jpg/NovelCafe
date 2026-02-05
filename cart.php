@@ -168,7 +168,8 @@
         <div id="cart-summary" style="display: none;">
             <p>Subtotal: <span id="cart-subtotal">$0.00</span></p>
             <p id="cart-total-text">Total: <span id="cart-grand-total">$0.00</span></p>
-            <a href="checkout.html" class="checkout-btn">Proceed to Checkout</a>
+            
+            <a href="checkout.php" class="checkout-btn">Proceed to Checkout</a>
         </div>
         
         <div id="empty-cart-message" class="empty-cart" style="display: none;">
